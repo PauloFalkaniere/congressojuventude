@@ -73,7 +73,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: rgba(21, 104, 184, 0.70) !important;
+    background-color: rgba(62, 155, 41, 0.70) !important;
 }
 
 .navbar-custom .navbar-brand {
@@ -139,7 +139,7 @@ a:focus {
 @media(min-width:768px) {
     .navbar-custom {
         color: #fff;
-        padding: 20px 0;
+        padding: 5px 0;
         border-bottom: 0;
         letter-spacing: 1px;
         background: 0 0;
@@ -174,7 +174,7 @@ a:focus {
     text-align: center;
     color: #e1e1e1;
     text-shadow: 3px 3px 2px #000;
-    background: url('../img/bg.png') no-repeat center center;
+    background: url('../img/bg-home.jpg') no-repeat;
     #background: rgba(49, 179, 174, 0.60);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -310,7 +310,7 @@ a:focus {
 }
 
 .preto {
-    background-color: rgb(21,104,184) !important;
+    background-color: rgb(112, 185, 96) !important;
 }
 
 .naopreto {
@@ -411,7 +411,7 @@ ul.banner-social-buttons {
 
 footer {
     padding: 20px 0;
-    background: rgb(21,104,184);
+    background: rgb(112, 185, 96);
     margin-top: -72px;
 }
 
@@ -498,7 +498,7 @@ img::-moz-selection {
 	padding: 10px;
 	min-height: 270px;
 	text-align: left;
-	border: 2px solid rgb(21,104,184);
+	border: 2px solid rgb(112, 185, 96); 
 	-webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;

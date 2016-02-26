@@ -23,7 +23,7 @@
     </section>
 
     <!-- Agenda Section -->
-    <section id="agenda" class="content-section text-center naopreto">
+<!-- <section id="agenda" class="content-section text-center naopreto">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -63,7 +63,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <!-- Plenaria Section -->
     <section id="plenaria" class="content-section text-center naopreto">
@@ -75,14 +75,14 @@
 
                     </div>
                     <div class="col-lg-10 col-md-8 col-sm-8 col-xs-12">
-                        <h3>01/08 (Sábado)</h3>
+                        <!-- <h3>01/08 (Sábado)</h3> -->
                         <div class="agenda">
-                            <h5>Plenária 1 - Liderança de Ministérios - <span style="text-transform:none">Pr.</span> Jhonatan Rodrigues - Terceira Igreja</h5><br>
-                            <h5>Plenária 2 - Evangelismo em Escolas (Escola da vida) - Paulinho - MPC BH</h5><br>
-                            <h5>Plenária 3 - Juventudes e Criatividade - Mis. Oséias Kirsch - King's Kids Brasil</h5><br>
-                            <h5>Plenária 4 - Adoração e Missão  - Bárbara Brant - PCT</h5><br>
-                            <h5>Plenária 5 - Juventudes Cristãs e a Sexualidade - Rafael Brandão e Jônatan Ribeiro - RP2 </h5><br>
-                            <h5>Plenária 6 - Pequenos Grupos - <span style="text-transform:none">Pr.</span> Lemuel Rodrigues - Terceira Igreja</h5><br>
+                            <h5>Plenária 1 - Chamado Sacerdotal - <!-- <span style="text-transform:none"></span> --> A definir</h5><br>
+                            <h5>Plenária 2 - Chamado Profético - A definir</h5><br>
+                            <h5>Plenária 3 - Chamado Pastoral - A definir</h5><br>
+                            <h5>Plenária 4 - Chamado Apostólico - A definir</h5><br>
+                            <!-- <h5>Plenária 5 - Juventudes Cristãs e a Sexualidade - Rafael Brandão e Jônatan Ribeiro - RP2 </h5><br>
+                            <h5>Plenária 6 - Pequenos Grupos - <span style="text-transform:none">Pr.</span> Lemuel Rodrigues - Terceira Igreja</h5><br> -->
                         </div>
                     </div>
                 </div>
@@ -99,67 +99,21 @@
                     <h2>Convidados</h2>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                         <div class="convidado">
-                            <img src="img/terceira.png" class="fotoconvidado img-responsive">
+                            <img src="img/marcelo.jpg" class="fotoconvidado img-responsive">
                             <div class="dadosconvidado">
-                                <a href="https://www.terceiraigreja.com" target="_blank">
-                                    <h5>Terceira Igreja</h5>
+                                <a href="https://www.facebook.com/marcelogualbertompc/" target="_blank">
+                                    <h5>Pr. Marcelo Gualberto</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                         <div class="convidado">
-                            <img src="img/mpc_belohorizonte.png" class="fotoconvidado img-responsive">
+                            <img src="img/person.png" class="fotoconvidado img-responsive">
                             <div class="dadosconvidado">
-                                <a href="https://www.facebook.com/mpcbh" target="_blank">
-                                    <h5>MPC - Belo Horizonte</h5>
+                                <a href="#" target="_blank">
+                                    <h5>Pr. Gilmar Silva Ferreira</h5>
                                 </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                        <div class="convidado">
-                            <img src="img/kingskidsbrasil.jpg" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                <a href="http://kingskidsbh.blogspot.com.br/" target="_blank">
-                                    <h5>King's Kids BH</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                        <div class="convidado">
-                            <img src="img/rpii.png" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                <a href="http://www.ministeriorp2.com/" target="_blank">
-                                    <h5>Ministério RP2</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                        <div class="convidado">
-                            <img src="img/pct.jpg" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                <a href="https://www.facebook.com/conquistandoaterra?fref=ts" target="_blank">
-                                    <h5>Projeto Conquistando a terra</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                        <div class="convidado">
-                            <img src="img/celso.jpg" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                    <h5>Pr Celso Tavares</h5>
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/celsotavaresoficial?fref=ts" target="_blank">Pessoal</a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.facebook.com/vineyardbh?fref=ts/" target="_blank">Igreja</a>
-                                        </li>
-                                    </ul>
                             </div>
                         </div>
                     </div>    
@@ -173,7 +127,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-left">
-                    <h2>Inscrição (Investimento R$ 20,00)</h2>
+                    <h2>Inscrição (Investimento R$125,00)</h2>
                     <iframe src="https://docs.google.com/forms/d/1cBbU2lx6vFkP7LZ4b5GaRb8xiN-50KqIeW5whQJ-n3U/viewform?embedded=true" class="fullform" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
                 </div>
             </div>
@@ -184,7 +138,7 @@
     <section id="localizacao" class="content-section text-center preto">
         <div class="container">
             <div class="row">
-                <h2>Localização</h2>
+                <h2>Informações</h2>
                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.262905868982!2d-43.956287999999994!3d-19.91332299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6974f13bf83cb%3A0xee08e797ca747e4a!2sTerceira+Igreja+Presbiteriana!5e0!3m2!1spt-BR!2sbr!4v1427573681536" class="mapaterceira" frameborder="0" style="border:0"></iframe>
                 </div>
@@ -216,7 +170,10 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-left">
                     <h2>Contato</h2>
-                    <iframe src="https://docs.google.com/forms/d/1vWV7qRJW-fPk3ouIV3weCPKsfimdWhv_Yaez8O_nyjA/viewform?embedded=true" class="fullform2" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
+                        <h4><i class="fa fa-phone-square"></i>
+                            <a href="tel:+553132781644">+55 (31) 3278-1644</a> - De Segunda a Sexta • Das 09h às 17h<br></h4>
+                        <h4><i class="fa fa-envelope"></i>
+                            <a href="mailto:secretaria@terceiraigreja.com">secretaria@terceiraigreja.com</a></h4>
                 </div>
             </div>
         </div>

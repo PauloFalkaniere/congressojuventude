@@ -19,7 +19,8 @@
     <link href="css/full.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
@@ -72,9 +73,9 @@
                     <li>
                         <a class="page-scroll" href="#sobre">Sobre</a>
                     </li>
-                    <li>
+                    <!--    <li>
                         <a class="page-scroll" href="#agenda">Agenda</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#plenaria">Plenárias</a>
                     </li>
@@ -85,14 +86,14 @@
                         <a class="page-scroll" href="#inscricao">Inscrição</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#localizacao">localização</a>
+                        <a class="page-scroll" href="#localizacao">informações</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contato">Contato</a>
                     </li>
-                    <li>
+<!--                     <li>
                         <a class="page-scroll" href="#apoio">Apoio</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
