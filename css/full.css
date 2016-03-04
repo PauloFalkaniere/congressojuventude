@@ -455,7 +455,7 @@ img::-moz-selection {
 
 .fotoconvidado {
 	max-width: 100px;
-    max-height: 67px;
+    max-height: 100px;
 	float: left;
     -webkit-border-radius: 10%;
     -moz-border-radius: 10%;
@@ -472,7 +472,7 @@ img::-moz-selection {
 
 .dadosconvidado h5 {
 	margin: 0px;
-	padding: 3% 0px;
+	padding: 24% 0px;
 }
 
 @media(max-width: 768px){

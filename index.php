@@ -99,24 +99,38 @@
                     <h2>Convidados</h2>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                         <div class="convidado">
-                            <img src="img/marcelo.jpg" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                <a href="https://www.facebook.com/marcelogualbertompc/" target="_blank">
-                                    <h5>Pr. Marcelo Gualberto</h5>
-                                </a>
-                            </div>
+                            <a href="https://www.facebook.com/marcelogualbertompc/" target="_blank">
+                                <img src="img/marcelo.jpg" class="fotoconvidado img-responsive">
+                                <div class="dadosconvidado">
+                                        <h5>Pr. Marcelo Gualberto</h5>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                         <div class="convidado">
-                            <img src="img/person.png" class="fotoconvidado img-responsive">
-                            <div class="dadosconvidado">
-                                <a href="#" target="_blank">
-                                    <h5>Pr. Gilmar Silva Ferreira</h5>
-                                </a>
-                            </div>
+                            <a href="https://www.facebook.com/gilmarprof?fref=ts" target="_blank">
+                                <img src="img/gilmar.jpg" class="fotoconvidado img-responsive">
+                                <div class="dadosconvidado">
+                                        <h5>Pr. Gilmar Silva Ferreira</h5>
+                                </div>
+                            </a>
                         </div>
-                    </div>    
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <div class="convidado">
+                            <a href="https://www.facebook.com/helio.espindulajunior?fref=ts" target="_blank">
+                                <img src="img/helio.jpg" class="fotoconvidado img-responsive">
+                                <div class="dadosconvidado">
+                                        <h5>Hélio Espindula Junior</h5>
+                                </div>
+                            </a>
+                        </div>
+                    </div> 
                 </div>
             </div>
         </div>
@@ -138,26 +152,30 @@
     <section id="localizacao" class="content-section text-center preto">
         <div class="container">
             <div class="row">
-                <h2>Informações</h2>
-                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.262905868982!2d-43.956287999999994!3d-19.91332299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6974f13bf83cb%3A0xee08e797ca747e4a!2sTerceira+Igreja+Presbiteriana!5e0!3m2!1spt-BR!2sbr!4v1427573681536" class="mapaterceira" frameborder="0" style="border:0"></iframe>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                    <div class="localizacaodados">
-                        <h3>terceira Igreja Presbiteriana de Belo Horizonte</h3>
-                        <p>
-                        Rua Uberlândia, 620
-                        <br />
-                        Bairro Carlos Prates
-                        <br />
-                        Belo Horizonte, MG
-                        <br />
-                        CEP 30.710-230
-                        <br />
-                        Email: secretaria@terceiraigreja.com
-                        <br />
-                        Telefone: 31 3278 1644
-                        </p>
+                <div class="col-lg-12">
+                    <h2>Informações</h2>
+                    <p>O acampamento acontecerá no carnaval dos dias 5 a 10 deFevereiro/2016</p>
+                    <!-- <p><b>Atenção: O ônibus sairá da Terceira no dia 05/02 as 20:30h, portanto chegue 20:00h para evitar atrasos!</b><br>O retorno será no dia 10/02 as 11:00h.</p> -->
+                    <p>O Valor do congresso é de R$125,00 por pessoa.</p>
+                    <div class="row">
+                        <a href="kit.php">
+                            <div class="col-md-4">
+                                <h4 class="text-center">Kit de Sobrevivência</h4>
+                                <img src="img/kit.png" class="img-responsive" style="margin: 15px auto;"/>
+                            </div>
+                        </a>
+                        <a href="faq.php">
+                            <div class="col-md-4">
+                                <h4 class="text-center">FAQ</h4>
+                                <img src="img/faq.png" class="img-responsive" style="margin: 15px auto;"/>
+                            </div>
+                        </a>
+                        <a href="local.php">
+                            <div class="col-md-4">
+                                <h4 class="text-center">Local</h4>
+                                <img src="img/map.png" class="img-responsive" style="margin: 15px auto;"/>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
